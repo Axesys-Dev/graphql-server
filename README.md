@@ -1,0 +1,2 @@
+# graphql-json-server
+yes
